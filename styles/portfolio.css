@@ -1,0 +1,41 @@
+nav li {
+  display: inline;
+  margin-right: 50px;
+  padding-right: 5px;
+  list-style: none;
+}
+/*Nav title Related slyte*/
+
+.nav-title {
+  color: #181818;
+  font-size: 45px;
+  font-weight: 800;
+}
+/*Nav Related style*/
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+nav a {
+  text-decoration: none;
+}
+/* Button Related style*/
+
+.btn-primary {
+  border-radius: 5px;
+  background-color: #fd6e0a;
+  color: aliceblue;
+  border: 0;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 10px 35px;
+}
+/*font Related style*/
+
+.font-primary {
+  color: #fd6e0a;
+}
+/*Header Related Style*/
+.header{
+    background-color: #FFF8F3;
+}
