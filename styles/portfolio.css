@@ -38,12 +38,14 @@ nav a {
 /*Header Related Style*/
 .header {
   background-color: #fff8f3;
+  background-image: url();
+  background-repeat: no-repeat;
+  background-position: bottom right;
 }
 .banner {
   padding: 30px 30px 30px 150px;
 }
 .banner .profile-picture {
   width: 500px;
-  display: flex;
-  justify-content: space-between;
+  
 }
