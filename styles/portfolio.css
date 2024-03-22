@@ -11,6 +11,15 @@ nav li {
   font-size: 45px;
   font-weight: 800;
 }
+.section-title {
+  color: #181818;
+  font-size: 35px;
+  text-align: center;
+  font-weight: 700;
+}
+.section-description {
+  font-size: 20px;
+}
 /*Nav Related style*/
 nav {
   display: flex;
@@ -38,14 +47,40 @@ nav a {
 /*Header Related Style*/
 .header {
   background-color: #fff8f3;
-  background-image: url();
+  background-image: url("../image/SDS-175385.png");
   background-repeat: no-repeat;
   background-position: bottom right;
 }
 .banner {
-  padding: 30px 30px 30px 150px;
+  padding: 400px 30px 0px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 .banner .profile-picture {
   width: 500px;
-  
+}
+.banner-greeting {
+  font-size: 45px;
+  margin-bottom: 0;
+}
+.banner-title {
+  font-size: 85px;
+  font-weight: 700;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+.banner-description {
+  font-size: 25px;
+  margin-top: 0;
+}
+
+/*main section styles*/
+
+/*About Section style*/
+.about {
+  padding: 130px;
+  border-radius: 10px;
+  background-color: #fff8f3;
+  margin: 130px;
 }
