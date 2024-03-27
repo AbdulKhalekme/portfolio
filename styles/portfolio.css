@@ -124,5 +124,10 @@ main section {
 }
 .resume-container {
   display: flex;
-  justify-content: space-between;
+  gap: 50px;
+}
+.resume-item-insttitute,
+.resume-item-description {
+  color: #757575;
+
 }
