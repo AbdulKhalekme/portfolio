@@ -125,9 +125,9 @@ main section {
 .resume-container {
   display: flex;
   gap: 50px;
+  margin: 30px;
 }
 .resume-item-insttitute,
 .resume-item-description {
   color: #757575;
-
 }
